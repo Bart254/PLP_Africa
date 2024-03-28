@@ -1,0 +1,11 @@
+h3 {
+	border-bottom: 2px solid #804E49;
+	width: 100px;
+	text-align: center;	
+	font-weight: lighter;
+}
+.skills li {
+	margin: 5px;
+	padding: 5px;
+	list-style-type: none;
+}

@@ -1,0 +1,18 @@
+body {
+	line-height: 2em;
+	padding: 15px;
+	background-color: #0A122A;
+	color: white;
+}
+
+h2, h1 {
+	color: #989C94;
+}
+
+section {
+	margin: 10px;
+}
+
+span {
+	margin-left: 100px;
+}
